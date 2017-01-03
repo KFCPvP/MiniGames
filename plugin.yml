@@ -1,0 +1,24 @@
+name: PlayerEmotions
+version: 1.0
+main: me.KFC.Main
+description: PlayerEmotions
+
+commands:
+    emotions:
+        description: Sends a list of all commands!
+    slap:
+        description: Slaps a player!
+    hug:
+        description: Hug a player!
+    kiss:
+        description: Kiss a player!
+    cake:
+        description: Share cake with a player!
+    fireworks:
+        description: Shoots fireworks!
+    cry:
+        description: Start crying!    
+    flirt:
+        description: Flirt with a player!
+    inlove:
+        description: Tell everyone you are inlove!
